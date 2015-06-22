@@ -2,4 +2,10 @@
 track:
     title: no published content
     uuid: e5bd4e7e-8b3e-4727-a0e0-0fddf19dc002
-    topics: []
+    topics:
+    -   title: topic one
+        uuid: 1b561138-89b6-4400-94f8-7d645e960779
+        units:
+        -   title: unit one
+            uuid: 6e477df4-181f-4458-a529-0a41440dcb59
+            lessons: []
